@@ -48,7 +48,31 @@ final songs = [
   new Song(path: "evil.mp3", title: "Evil", progression: "b/F# e/G b* b"),
   new Song(path: "groovy.mp3", title: "Groovy", progression: "C C G G"),
   new Song(path: "happy.mp3", title: "Happy", progression: "C Bb F C"),
-  new Song(path: "heavy.mp3", title: "Heavy", progression: "C E a E")
+  new Song(path: "heavy.mp3", title: "Heavy", progression: "C E a E"),
+  
+  new Song(path: "innocent.mp3", title: "Innocent", progression: "Eb5 c Ab Bb5"),
+  new Song(path: "inspire.mp3", title: "Inspiring", progression: "e Csus2 G Dsus2"),
+  new Song(path: "joy.mp3", title: "Joy", progression: "C F C G"),
+  new Song(path: "laidback.mp3", title: "Laid Back", progression: "G C G D"),
+  new Song(path: "lullaby.mp3", title: "Lullaby", progression: "Csus2 F5 Csus2 Gsus4"),
+  new Song(path: "pride.mp3", title: "Pride", progression: "Asus2 D A5 E5"),
+  new Song(path: "realization.mp3", title: "Realization", progression: "C Bb F C"),
+  new Song(path: "reflecting.mp3", title: "Reflecting", progression: "F a Bb C"),
+  new Song(path: "relief.mp3", title: "Relief", progression: "Csus2 Fsus2 C_A Gsus2"),
+  new Song(path: "reminiscing.mp3", title: "Reminiscing", progression: "g/C f Bb Eb Eb/D"),
+  new Song(path: "sad.mp3", title: "Sad", progression: "e e/D e/C B"),
+  new Song(path: "smooth.mp3", title: "Smooth", progression: "C C G G"),
+  new Song(path: "solemn.mp3", title: "Solemn", progression: "b f# G D"),
+  new Song(path: "solemnsunshine.mp3", title: "Solemn Sunshine", progression: "g Eb Bb F"),
+  new Song(path: "space.mp3", title: "Space", progression: "a F C G"),
+  new Song(path: "stand.mp3", title: "Stand", progression: "c Ab Eb Bb"),
+  new Song(path: "steady.mp3", title: "Steady", progression: "e C G D"),
+  new Song(path: "stepup.mp3", title: "Step Up", progression: "e A C B"),
+  new Song(path: "success.mp3", title: "Success", progression: "c Ab Eb Bb"),
+  new Song(path: "sunny.mp3", title: "Sunny", progression: "C G a F"),
+  new Song(path: "suspended.mp3", title: "Suspended", progression: "A5 F5 G5 C5"),
+  new Song(path: "thoughtful.mp3", title: "Thoughtful", progression: "C G F G"),
+  new Song(path: "unstoppable.mp3", title: "Unstoppable", progression: "e/a F C G"),
 ];
 
 final words = [
