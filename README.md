@@ -1,6 +1,6 @@
-# Improv Song Practice App
+# Songtaneous
 
-A Flutter app to practice improvising songs in different genres.
+An app to practice improvising songs in different genres and styles.
 
 ## Contributors
 

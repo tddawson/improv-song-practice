@@ -1,5 +1,5 @@
-name: song
-description: A new Flutter project.
+name: Songtaneous
+description: Improvise songs on the spot with topic suggestions and piano accompaniment in a variety of styles.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -26,9 +26,16 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
 
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "assets/icon/icon.png"
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  
+  flutter_launcher_icons: "^0.7.3"
 
 
 # For information on the generic Dart part of this file, see the
